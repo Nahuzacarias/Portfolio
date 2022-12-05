@@ -1,0 +1,29 @@
+.clase_header {
+    margin-top: 6rem;
+}
+
+
+.clase_body {
+    background-color: rgba(6, 241, 210, 0.466);
+    background-image: url(/Assets/fondoindex.png);
+}
+
+.clase_header__1 {
+    border-right-style: solid;
+    border-right-color: rgba(3, 189, 96, 0.795);
+}
+
+.section_main {
+
+    margin-top: 10rem;
+}
+
+.section_main__developer {
+
+    margin-top: 2rem;
+}
+.section_main_h1{
+
+    font-family: 'Archivo', sans-serif;
+font-family: 'Lobster', cursive;
+}
